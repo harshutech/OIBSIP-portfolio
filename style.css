@@ -111,10 +111,10 @@ header.shadow {
 }
 
 .home {
-  padding-top: 180px;
+  padding-top: 150px;
   position: relative;
   width: 100%;
-  min-height: 100vh;
+  min-height: 50vh;
   grid-template-columns: 0.2fr 1fr 1fr;
   align-items: center;
   gap: 1rem;
